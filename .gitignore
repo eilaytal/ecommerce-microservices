@@ -7,3 +7,6 @@ __pycache__/
 
 # Docker
 docker-compose.override.yml
+
+# macOS
+.DS_Store
